@@ -1,3 +1,6 @@
+void setup(){
+  
+size(500,500);
 background(#F5E31E);
 smooth();
 }
